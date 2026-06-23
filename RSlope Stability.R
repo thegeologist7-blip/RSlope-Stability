@@ -13,7 +13,7 @@ library(gridExtra)
 # ==============================================================================
 
 # 1. DEFINIR UBICACIÓN DE GUARDADO (Ruta de carpeta para tus resultados)
-ruta_proyecto <- "W:/Articulos_escritos/SlopStability R/script/resultados_analisis"
+ruta_proyecto <- file.path(getwd(), "resultados_analisis")
 
 # 2. COORDENADAS DE INTERFACES (Definidas de arriba hacia abajo)
 capas_coords <- list(
