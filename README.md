@@ -1,4 +1,4 @@
-# RSlope Stability PRO 🇪🇨
+# RSlope Stability
 ### Motor de Equilibrio Límite (LEM) y Análisis Estocástico de Confiabilidad en Taludes Multicapa
 
 Este repositorio contiene un algoritmo avanzado de código abierto desarrollado en **R** para la evaluación cuantitativa de la estabilidad de taludes y laderas. El sistema integra métodos de equilibrio límite tradicionales con un robusto módulo estocástico de **Simulación de Monte Carlo** y análisis de sensibilidad paramétrica no lineal, optimizado para perfiles litoestratigráficos complejos.
